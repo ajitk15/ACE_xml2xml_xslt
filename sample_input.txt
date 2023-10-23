@@ -1,0 +1,82 @@
+<employees>
+    <employee department="IT">
+        <id>1</id>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <email>john.doe@example.com</email>
+        <position>Software Engineer</position>
+        <salary>75000</salary>
+    </employee>
+    <employee department="Marketing">
+        <id>2</id>
+        <firstName>Jane</firstName>
+        <lastName>Smith</lastName>
+        <email>jane.smith@example.com</email>
+        <position>Marketing Manager</position>
+        <salary>65000</salary>
+    </employee>
+    <employee department="HR">
+        <id>3</id>
+        <firstName>Michael</firstName>
+        <lastName>Johnson</lastName>
+        <email>michael.johnson@example.com</email>
+        <position>HR Specialist</position>
+        <salary>55000</salary>
+    </employee>
+    <employee department="Finance">
+        <id>4</id>
+        <firstName>Susan</firstName>
+        <lastName>Williams</lastName>
+        <email>susan.williams@example.com</email>
+        <position>Financial Analyst</position>
+        <salary>70000</salary>
+    </employee>
+    <employee department="Design">
+        <id>5</id>
+        <firstName>David</firstName>
+        <lastName>Anderson</lastName>
+        <email>david.anderson@example.com</email>
+        <position>Graphic Designer</position>
+        <salary>60000</salary>
+    </employee>
+    <employee department="Project Management">
+        <id>6</id>
+        <firstName>Laura</firstName>
+        <lastName>Brown</lastName>
+        <email>laura.brown@example.com</email>
+        <position>Project Manager</position>
+        <salary>80000</salary>
+    </employee>
+    <employee department="Sales">
+        <id>7</id>
+        <firstName>Christopher</firstName>
+        <lastName>Lee</lastName>
+        <email>christopher.lee@example.com</email>
+        <position>Sales Representative</position>
+        <salary>62000</salary>
+    </employee>
+    <employee department="Product Management">
+        <id>8</id>
+        <firstName>Emily</firstName>
+        <lastName>Clark</lastName>
+        <email>emily.clark@example.com</email>
+        <position>Product Manager</position>
+        <salary>85000</salary>
+    </employee>
+    <employee department="Customer Support">
+        <id>9</id>
+        <firstName>Robert</firstName>
+        <lastName>Hall</lastName>
+        <email>robert.hall@example.com</email>
+        <position>Customer Support Specialist</position>
+        <salary>52000</salary>
+    </employee>
+    <employee department="Analytics">
+        <id>10</id>
+        <firstName>Mary</firstName>
+        <lastName>Turner</lastName>
+        <email>mary.turner@example.com</email>
+        <position>Data Analyst</position>
+        <salary>67000</salary>
+    </employee>
+</employees>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <department>IT</department>
+    </employee>
+    <employee>
+        <id>2</id>
+        <firstName>Jane</firstName>
+        <lastName>Smith</lastName>
+        <department>Marketing</department>
+    </employee>
+    <employee>
+        <id>3</id>
+        <firstName>Michael</firstName>
+        <lastName>Johnson</lastName>
+        <department>HR</department>
+    </employee>
+    <employee>
+        <id>4</id>
+        <firstName>Susan</firstName>
+        <lastName>Williams</lastName>
+        <department>Finance</department>
+    </employee>
+    <employee>
+        <id>5</id>
+        <firstName>David</firstName>
+        <lastName>Anderson</lastName>
+        <department>Design</department>
+    </employee>
+    <employee>
+        <id>6</id>
+        <firstName>Laura</firstName>
+        <lastName>Brown</lastName>
+        <department>Project Management</department>
+    </employee>
+    <employee>
+        <id>7</id>
+        <firstName>Christopher</firstName>
+        <lastName>Lee</lastName>
+        <department>Sales</department>
+    </employee>
+    <employee>
+        <id>8</id>
+        <firstName>Emily</firstName>
+        <lastName>Clark</lastName>
+        <department>Product Management</department>
+    </employee>
+    <employee>
+        <id>9</id>
+        <firstName>Robert</firstName>
+        <lastName>Hall</lastName>
+        <department>Customer Support</department>
+    </employee>
+    <employee>
+        <id>10</id>
+        <firstName>Mary</firstName>
+        <lastName>Turner</lastName>
+        <department>Analytics</department>
+    </employee>
+</employees>
